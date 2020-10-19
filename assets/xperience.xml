@@ -40,4 +40,17 @@ day_header entries have a higher priority then hour entries -->
     <random_header image="xpe_18" />
     <random_header image="xpe_19" />
     <random_header image="xpe_20" />
+    <random_header image="xpe_22" />
+    <random_header image="xpe_23" />
+    <random_header image="xpe_24" />
+    <random_header image="xpe_25" />
+    <random_header image="xpe_26" />
+    <random_header image="xpe_27" />
+    <random_header image="xpe_28" />
+    <random_header image="xpe_29" />
+    <random_header image="xpe_30" />
+    <random_header image="xpe_31" />
+    <random_header image="xpe_32" />
+    <random_header image="xpe_33" />
+    <random_header image="xpe_34" />
 </daylight_headers>
