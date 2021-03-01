@@ -128,15 +128,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
 
         <activity
-            android:name=".omni_syed"
-            android:label="Syed" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-
-        <activity
             android:name=".theme"
             android:label="Theme" >
             <intent-filter>
@@ -172,8 +163,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             </intent-filter>
         </activity>
         <activity
-            android:name=".community"
-            android:label="XPerience Community" >
+            android:name=".xperience"
+            android:label="The XPerience Project" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -181,8 +172,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             </intent-filter>
         </activity>
         <activity
-            android:name=".xperience"
-            android:label="The XPerience Project" >
+            android:name=".xperiencen"
+            android:label="The XPerience Project Com" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
